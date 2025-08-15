@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ca36ca99c476f3ff",
+        "id": "fa20eed9f655eb47",
         "type": "tabs",
         "children": [
           {
-            "id": "e4ed7e6988ca65c2",
+            "id": "32b0546bf2cb90f7",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -162,7 +162,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4ed7e6988ca65c2",
+  "active": "32b0546bf2cb90f7",
   "lastOpenFiles": [
     "היסטוריה/התנועה הציונית/הרצל והקונגרס הציוני/הצעת אוגנדה.rtl.md",
     "היסטוריה/התנועה הציונית/הרצל והקונגרס הציוני/הקונגרס הציוני הראשון.rtl.md",
